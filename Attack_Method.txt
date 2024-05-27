@@ -1,0 +1,13 @@
+Django:
+
+	4) Test the Authentication Mechanism
+	- 4.13.2 Test Any Multistage Mechanims
+
+Docker
+
+	5) Test the Session Management Mechanism
+	- 5.9 Check for CSRF
+
+	7) Test for Input-Based Vulnerabilities
+	- 7.3 XSS injection
+

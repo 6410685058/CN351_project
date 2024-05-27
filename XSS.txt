@@ -1,0 +1,2 @@
+XSS: input: <script>alert('attack')</script>
+
